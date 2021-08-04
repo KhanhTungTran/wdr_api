@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+wdr/
+bds_ct/
+models/detection/
+models/removal/
+results/
+.venv/

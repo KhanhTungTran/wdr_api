@@ -1,0 +1,11 @@
+flask
+opencv-contrib-python
+numpy
+pandas
+tensorflow-gpu==2.4.1
+matplotlib
+scikit-learn
+seaborn
+tqdm
+torch
+torchvision
